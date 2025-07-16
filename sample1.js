@@ -1,5 +1,5 @@
 document.write("JAVASCRPT");
 
-alert("HELLO WROLD");
+alert("HELLO WROLD - test");
 
 //comment
